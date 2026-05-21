@@ -119,3 +119,5 @@ solana-narrative-detector/
 ## License
 
 MIT — Open source for the Solana ecosystem.
+
+thanks
